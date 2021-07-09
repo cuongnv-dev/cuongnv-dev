@@ -15,7 +15,7 @@
 
 
 
-**Languages and Tools:**  
+### Languages and Tools:
 
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -34,18 +34,15 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br/>
+
 <a href="https://github.com/cuongnv-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongnv-dev&theme=radical" />
 </a>
 
 
-<br/>
-<br/>
+### Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=cuongnv-dev&&show_icons=true&theme=radical&line_height=27&v=5" alt="CuongDev's GitHub Stats" />
-
-
-
 
 
 ##  
