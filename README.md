@@ -42,7 +42,7 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cuongnv-dev&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=cuongnv-dev&&show_icons=true&theme=radical&line_height=27&v=5" alt="CuongDev's GitHub Stats" />
 
 
 
