@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=red&color=d3d3d3&link=mailto:cuongnv230796@gmail.com)](mailto:cuongnv230796@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/cuongnv-dev?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=cuongnv-dev.cuongnv-dev)
-<p><em>Software Engineer at  <a href="https://www.centralretail.com/">Central Retail  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at  <a href="https://www.fwd.com/">FWD Group  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ## About :sunglasses:
